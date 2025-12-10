@@ -1,7 +1,7 @@
 # Naive-Bayes-Banknotes-and-Digit-Classification
 This repo contains Naive Bayes classifiers from scratch: classify banknote legitimacy and handwritten digits, including preprocessing, probability computation, and prediction logic without using pre-built ML libraries.
 
-[![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/) 
 
 A collection of **Naive Bayes classifiers implemented from scratch**, demonstrating binary and multiclass classification on real-world datasets. The projects include **Banknote Legitimacy Classification** and **Handwritten Digit Classification**, highlighting the mathematical foundations of Naive Bayes.
 
